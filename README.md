@@ -44,6 +44,7 @@ Many thanks to [ptitSeb](https://github.com/ptitSeb) (Box86/Box64), [Danylo](htt
 
 Thank you to all the people who believe in this project.
 
--If container stuck in loading repeon it
--Leegao wrapper is added as Wrapper-v3
--Gyro scope doesn't work correctly:you need to enable gyro and select gyroscope and restart container to work it correctly 
+- If container stuck in loading repeon it
+- Leegao wrapper is added as Wrapper-v3
+- Gyro scope doesn't work correctly:you need to enable gyro and select gyroscope and restart container to work it correctly 
+
