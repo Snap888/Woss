@@ -48,6 +48,7 @@ Thank you to all the people who believe in this project.
 - Leegao wrapper is added as Wrapper-v3
 - Gyro scope doesn't work correctly:you need to enable gyro and select gyroscope and restart container to work it correctly then increase sensitivity or reduce motion
 - wrapper-v3 env options documentation https://github.com/leegao/bionic-vulkan-wrapper/releases/tag/v0.0.5r5
+- Game screen tearing:Try MESA_VK_WSI_DEBUG in env option 
 
 
 
