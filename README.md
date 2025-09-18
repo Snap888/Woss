@@ -27,7 +27,7 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 - If some older games don't open, try adding the environment variable MESA_EXTENSION_MAX_YEAR=2003 in Container Settings -> Environment Variables.
 - Try running the games using the shortcut on the Winlator home screen, there you can define individual settings for each game.
 - To speed up the installers, try changing the Box86/Box64 preset to Intermediate in Container Settings -> Advanced Tab.
-
+- If the game have screen tearing issues try changing Display Synchronization in -> Graphics Configuration or limit the fps to 40/50
 # Credits and Third-party apps
 - Ubuntu RootFs ([Focal Fossa](https://releases.ubuntu.com/focal))
 - Wine ([winehq.org](https://www.winehq.org/))
@@ -44,12 +44,12 @@ Many thanks to [ptitSeb](https://github.com/ptitSeb) (Box86/Box64), [Danylo](htt
 
 Thank you to all the people who believe in this project.
 
+- How to use Macro -> Just enable below the key binding you want to macro and adjust the delay depends on the game's 
 - If container stuck in loading repeon it
 - Leegao wrapper is added as Wrapper-v3
 - Gyro scope doesn't work correctly:you need to enable gyro and select gyroscope and restart container to work it correctly then increase sensitivity or reduce motion
 - wrapper-v3 env options documentation https://github.com/leegao/bionic-vulkan-wrapper/releases/tag/v0.0.5r5
-- Game screen tearing:Try MESA_VK_WSI_DEBUG in env option
-- For Mali device Use Wrapper-v3
+- For Mali device Use Wrapper-v3/v4
 
 
 
