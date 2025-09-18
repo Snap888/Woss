@@ -46,10 +46,12 @@ Thank you to all the people who believe in this project.
 
 - How to use Macro -> Just enable below the key binding you want to macro and adjust the delay depends on the game's 
 - If container stuck in loading repeon it
+- For grid view in shorcut you need to download high quality icon/pngs you can change (tap)icon in List view
 - Leegao wrapper is added as Wrapper-v3
 - Gyro scope doesn't work correctly:you need to enable gyro and select gyroscope and restart container to work it correctly then increase sensitivity or reduce motion
 - wrapper-v3 env options documentation https://github.com/leegao/bionic-vulkan-wrapper/releases/tag/v0.0.5r5
 - For Mali device Use Wrapper-v3/v4
+
 
 
 
