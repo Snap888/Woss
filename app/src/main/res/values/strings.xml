@@ -5,6 +5,17 @@
     ]>
 <resources>
     
+    <string name="enable_hdr">Enable HDR</string>
+    <string name="hdr_exposure">Exposure</string>
+    <string name="hdr_gamma">Gamma</string>
+    <string name="hdr_tone_mapping">Tone Mapping</string>
+    <string name="tone_mapping_reinhard">Reinhard</string>
+    <string name="tone_mapping_aces">ACES</string>
+    <string name="tone_mapping_uncharted2">Uncharted 2</string>
+
+    <string name="hide_mouse_cursor">Hide mouse cursor</string>
+    <string name="post_processing">Post Processing</string>
+    
     <string name="apply">Apply</string> 
     <string name="custom_color_controls">Custom color controls</string>
     <string name="color_temperature">Color temperature</string>
@@ -785,6 +796,7 @@ E.g. <b>META</b> for <i>META key</i>, \n
     <string name="gl">gl</string>
     <string name="vulkan">vulkan</string>
     <string name="gdi">gdi</string>
+
 
 
 </resources>
