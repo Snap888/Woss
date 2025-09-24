@@ -45,7 +45,6 @@
 
     <string name="open_">Open</string>
     <string name="rename">Rename</string>
-    <string name="rename_">Rename</string>
     <string name="delete">Delete</string>
     
     <string name="move">Move</string>
@@ -800,3 +799,4 @@ E.g. <b>META</b> for <i>META key</i>, \n
 
 
 </resources>
+
